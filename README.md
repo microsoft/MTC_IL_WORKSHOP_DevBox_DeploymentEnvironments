@@ -26,6 +26,8 @@ Environments and Dev Box services.
 
 ## Deployment Environments
 
+<img src="./assets/deploymentEnvironments.png" alt="deploymentEnvironments" width="1000"/>
+
 ### Create a resource group
 
 1. If you are not signed in already, sign into the Azure Portal and make sure you can access the subscription that you’d like to use for the duration of the lab. You should be an owner of this subscription.
@@ -334,6 +336,8 @@ At this time, you can also clean up the Dev Center resources in your subscriptio
 ----
 
 ## DevBox
+
+<img src="./assets/devbox.png" alt="devbox" width="1000"/>
 
 ### Create Dev box definition
 
