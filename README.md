@@ -159,7 +159,7 @@ Configure the following options:
 - Git clone URI: [https://github.com/arikbidny/deployment-environments.git](https://github.com/arikbidny/deployment-environments.git)
 - Branch: main
 - Folder Path: Environments
-- Secret Identifier: https://<your KeyVault name>.vault.azure.net/secrets/GHPAT
+- Secret Identifier: https://{your KeyVault name}.vault.azure.net/secrets/GHPAT
 
 If in doubt you can find your Key Vault URI on its resource blade.
 
